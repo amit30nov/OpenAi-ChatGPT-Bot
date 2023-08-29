@@ -18,7 +18,7 @@ global.ONLY_GROUPS = true // Only Groups Use
 */
 global.OWNER_NAME = 'Dark Maker Ofc' // Owner Name
 global.OWNER_NUMBER = ['919711908216'] //Owner Number
-global.BOT_ADMINS = ['919711908216','94715166712'] //Bot admins numbers Like a Sudo Numbers
+global.BOT_ADMINS = ['919711908216','918527039677'] //Bot admins numbers Like a Sudo Numbers
 global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and put Jids
 global.IMAGE_QUALITY = 'low' // Available Quality Are => low | mediam | high
 global.CAPTION = '*© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙾𝙿𝙴𝙽-𝙰𝙸(𝙲𝙷𝙰𝚃𝙶𝙿𝚃) 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃*'
